@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://globalprotect-telecharger.github.io/sitemap.xml
